@@ -1,0 +1,69 @@
+
+.red{
+    color: red;
+}
+
+.blue{
+    color: blue;
+}
+
+.box{
+    border: 1px solid black;
+    background-color: pink;
+}
+.abc{
+    background-color: blue;
+    color: whitesmoke;
+}
+
+
+
+
+
+
+
+/* decendent selector */
+/* main p{
+    color: brown;
+} */
+
+/* child selector */
+
+/* h1 > p{
+    color: blue;
+} */
+
+/* adjacent siblings */
+ 
+/* section + p{
+    color: yellow;
+} */
+
+/* general sibling selector */
+/* section ~ p{
+    color: yellow;
+} */
+
+/* Attribute selector */
+
+/* [target="_main"]{
+    color: pink;
+    text-decoration: none;
+}
+
+[alt~="pw"]{
+    background-color: black;
+}
+
+.green{
+    color: green;
+    /* text-decoration: underline black wavy; */
+/* }
+
+.underline{
+    text-decoration: underline purple wavy;
+}
+
+.yellowbg{
+    background-color: yellow;
+}  */
